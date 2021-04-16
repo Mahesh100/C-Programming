@@ -93,6 +93,11 @@ d
 -Variables are also called as Idenifiers.
 
 
+*** Format Specifires **
+
+-If the data is to be printed on output screen then the format specifiers is used.
+
+
 
     
 
