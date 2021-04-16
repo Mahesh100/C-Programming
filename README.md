@@ -85,6 +85,7 @@ d
  
 ***Variables***
 -The names given to memory locations are known as Variables.
+-Variable is used to identify the perticular memory location with the Name/Value.
 
 
 * Indentifiers in C programming .
