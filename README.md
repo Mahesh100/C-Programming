@@ -101,7 +101,10 @@ d
 
    %d   -Used when the integer data type is used.
    
-    %f   -Used when the float data type is used.
+   %f   -Used when the float data type is used.
+    
+   %c   -Used when the Character data type is used.
+
    
    
   
