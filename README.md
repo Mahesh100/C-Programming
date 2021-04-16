@@ -90,7 +90,7 @@ d
 
 * Indentifiers in C programming .
 
--
+-Variables are also called as Idenifiers.
 
 
 
