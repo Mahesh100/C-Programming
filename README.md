@@ -79,6 +79,11 @@ d
              float/double => 4bytes/8bytes.
              
              char => 1byte
+             
+             
+             
+ 
+***Variables***
 
 
 * Indentifiers in C programming .
