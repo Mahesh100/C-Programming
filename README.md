@@ -68,6 +68,9 @@ d
 
 **Data Type is the Intimation Given to the Operating System that perticular type of data is going to be used.
 
+-The data type whose size is already define know as Primetative data type.
+-Primetative ->The size is Completly define bt the operating system.
+
 
 
 * Indentifiers in C programming Language.
