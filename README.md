@@ -66,6 +66,16 @@ d
 
 /*  The Program Execution Phase- (Compilation Flow). */
 
+**Data Type is the Intimation Given to the Operating System that perticular type of data is going to be used.
+
+
+
+* Indentifiers in C programming Language.
+
+-
+
+
+
     
 
 
