@@ -72,8 +72,16 @@ d
 -Primetative ->The size is Completly define bt the operating system.
 
 
+             1 byte = 8 bits
+             
+             int = 4 bytes
+             
+             float/double => 4bytes/8bytes.
+             
+             char => 1byte
 
-* Indentifiers in C programming Language.
+
+* Indentifiers in C programming .
 
 -
 
