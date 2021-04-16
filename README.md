@@ -84,6 +84,7 @@ d
              
  
 ***Variables***
+-The names given to memory locations are known as Variables.
 
 
 * Indentifiers in C programming .
