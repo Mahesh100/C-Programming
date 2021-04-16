@@ -97,6 +97,11 @@ d
 
 -If the data is to be printed on output screen then the format specifiers is used.
 
+-Some format Speifiers are->
+
+   %d   -Used when the integer data type is used.
+   
+  
 
 
     
